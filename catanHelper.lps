@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="6">
+      <Unit0>
+        <Filename Value="catanHelper.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="catanHelper"/>
+        <UsageCount Value="30"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="main.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmMain"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="main"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="0"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="95"/>
+        <CursorPos X="14" Y="124"/>
+        <UsageCount Value="30"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="/usr/share/lazarus/1.0.10/lcl/stdctrls.pp"/>
+        <UnitName Value="StdCtrls"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1396"/>
+        <CursorPos X="19" Y="1411"/>
+        <UsageCount Value="10"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="/usr/share/lazarus/1.0.10/lcl/include/customlabel.inc"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="96"/>
+        <CursorPos X="5" Y="117"/>
+        <UsageCount Value="10"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="/usr/share/lazarus/1.0.10/lcl/controls.pp"/>
+        <UnitName Value="Controls"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="996"/>
+        <CursorPos X="54" Y="1487"/>
+        <UsageCount Value="10"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="/usr/share/lazarus/1.0.10/lcl/lclclasses.pp"/>
+        <UnitName Value="LCLClasses"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="75"/>
+        <CursorPos X="3" Y="48"/>
+        <UsageCount Value="10"/>
+      </Unit5>
+    </Units>
+    <General>
+      <ActiveWindowIndexAtStart Value="0"/>
+    </General>
+    <JumpHistory Count="0" HistoryIndex="-1"/>
+  </ProjectSession>
+</CONFIG>
